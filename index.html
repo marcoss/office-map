@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Office Map</title>
+
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
+
+    <link href="core/css/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+  <nav id="header" class="navbar navbar-default navbar-fixed-top">
+
+    <div class="row">
+      <div class="col-sm-4 left">
+
+        <div class="col-sm-8 col-md-12 ">
+
+          <form id="search">
+            <input type="text" class="form-control" autocomplete="off" autocorrect="off" spellcheck="false" id="searchName" placeholder="Search for name or room #">
+            <input id="searchNameButton" type="submit" style="position: absolute; left: -9999px" tabindex="-1">
+          </form>
+
+        </div>
+
+      </div>
+
+      <div class="hidden-xs col-sm-4 title">
+        <h1>Office Map</h1>
+      </div>
+
+      <div class="hidden-xs col-sm-4 right">
+
+      </div>
+
+    </div>
+
+  </nav>
+
+  <div id="map" class="custom-popup container-fluid"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="core/js/map.js"></script>
+
+  </body>
+</html>

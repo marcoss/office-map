@@ -1,0 +1,483 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, 0], [9, 0], [9, -8], [0, -8] ]] },
+          "properties": { "room": "279", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [9.5, 0], [17.5, 0], [17.5, -8], [9.5, -8] ]] },
+          "properties": { "room": "281", "department": "administration", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [18, 0], [25.5, 0], [25.5, -8], [18, -8] ]] },
+          "properties": { "room": "284", "department": "administration", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [26, 0], [34, 0], [34, -8], [26, -8] ]] },
+          "properties": { "room": "286", "department": "administration", "tenant": "John Doe", "avatar": "core/avatar.jpg.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [34.5, 0], [42.5, 0], [42.5, -8], [34.5, -8] ]] },
+          "properties": { "room": "288", "department": "administration", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [43, 0], [50.5, 0], [50.5, -8], [43, -8] ]] },
+          "properties": { "room": "289", "department": "administration", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [51, 0], [58.5, 0], [58.5, -10.5], [51, -10.5] ]] },
+          "properties": { "room": "290", "department": "administration", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [59, 0], [67, 0], [67, -8], [59, -8] ]] },
+          "properties": { "room": "293", "department": "faculty", "tenant": "John Doe", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [67.5, 0], [75, 0], [75, -8], [67.5, -8] ]] },
+          "properties": { "room": "294", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [75.5, 0], [83.5, 0], [83.5, -8], [75.5, -8] ]] },
+          "properties": { "room": "295", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [84, 0], [91.5, 0], [91.5, -8], [84, -8] ]] },
+          "properties": { "room": "296", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [92, 0], [100, 0], [100, -8], [92, -8] ]] },
+          "properties": { "room": "297", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [100.5, 0], [108, 0], [108, -8], [100.5, -8] ]] },
+          "properties": { "room": "298", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [108.5, 0], [118.5, 0], [118.5, -11], [108.5, -11] ]] },
+          "properties": { "room": "299", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -8.5], [7, -8.5], [7, -18], [0, -18] ]] },
+          "properties": { "room": "278", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -18.5], [7.5, -18.5], [7.5, -27.5], [0, -27.5] ]] },
+          "properties": { "room": "277", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -28], [7.5, -28], [7.5, -37.5], [0, -37.5] ]] },
+          "properties": { "room": "275", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -38], [7.5, -38], [7.5, -47], [0, -47] ]] },
+          "properties": { "room": "264", "department": "common", "tenant": "Break Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -47.5], [7.5, -47.5], [7.5, -56.5], [0, -56.5] ]] },
+          "properties": { "room": "263", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -57], [7.5, -57], [7.5, -63], [0, -63] ]] },
+          "properties": { "room": "259", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -63.5], [7.5, -63.5], [7.5, -69], [0, -69] ]] },
+          "properties": { "room": "259A", "department": "faculty", "tenant": "John Doe", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [0, -69.5], [9, -69.5], [9, -77], [0, -77] ]] },
+          "properties": { "room": "258", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [9.5, -69.5], [17.5, -69.5], [17.5, -77], [9.5, -77] ]] },
+          "properties": { "room": "257", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [18, -69.5], [25.5, -69.5], [25.5, -77], [18, -77] ]] },
+          "properties": { "room": "256", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [26, -69.5], [34, -69.5], [34, -77], [26, -77] ]] },
+          "properties": { "room": "254", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [34.5, -69.5], [42, -69.5], [42, -77], [34.5, -77] ]] },
+          "properties": { "room": "253", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [42.5, -69.5], [50.5, -69.5], [50.5, -77], [42.5, -77] ]] },
+          "properties": { "room": "252", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [51, -69.5], [58.5, -69.5], [58.5, -77], [51, -77] ]] },
+          "properties": { "room": "239", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [59, -69.5], [67, -69.5], [67, -77], [59, -77] ]] },
+          "properties": { "room": "249", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [67.5, -69.5], [75, -69.5], [75, -77], [67.5, -77] ]] },
+          "properties": { "room": "247", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [75.5, -69.5], [83.5, -69.5], [83.5, -77], [75.5, -77] ]] },
+          "properties": { "room": "245", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [84, -69.5], [91.5, -69.5], [91.5, -77], [84, -77] ]] },
+          "properties": { "room": "242", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [92, -69.5], [99.5, -69.5], [99.5, -77], [92, -77] ]] },
+          "properties": { "room": "241", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [100, -67], [108.5, -67], [108.5, -77], [100, -77] ]] },
+          "properties": { "room": "240", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [100, -66.5], [108.5, -66.5], [108.5, -60], [100, -60] ]] },
+          "properties": { "room": "251", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [97, -59.5], [108.5, -59.5], [108.5, -52.5], [97, -52.5] ]] },
+          "properties": { "room": "238", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [87.5, -59.5], [96.5, -59.5], [96.5, -52.5], [87.5, -52.5] ]] },
+          "properties": { "room": "237", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [75.5, -59.5], [83.5, -59.5], [83.5, -52.5], [75.5, -52.5] ]] },
+          "properties": { "room": "244", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [67.5, -59.5], [75, -59.5], [75, -52.5], [67.5, -52.5] ]] },
+          "properties": { "room": "246", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [60, -65.5], [67, -65.5], [67, -52.5], [60, -52.5] ]] },
+          "properties": { "room": "248", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [19, -65.5], [45, -65.5], [45, -48.5], [19, -48.5] ]] },
+          "properties": { "room": "255", "department": "common", "tenant": "Conference Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [11.5, -65.5], [18.5, -65.5], [18.5, -57], [11.5, -57] ]] },
+          "properties": { "room": "261", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [11.5, -56.5], [18.5, -56.5], [18.5, -48.5], [11.5, -48.5] ]] },
+          "properties": { "room": "262", "department": "faculty", "tenant": "John Doe", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [11.5, -48], [19.5, -48], [19.5, -41], [11.5, -41] ]] },
+          "properties": { "room": "265", "department": "common", "tenant": "Kitchen", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [11.5, -40.5], [19.5, -40.5], [19.5, -33], [11.5, -33] ]] },
+          "properties": { "room": "269", "department": "faculty", "tenant": "John Doe", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [20, -43], [26, -43], [26, -33], [20, -33] ]] },
+          "properties": { "room": "268", "department": "common", "tenant": "Projector Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [20, -48], [26, -48], [26, -43.5], [20, -43.5] ]] },
+          "properties": { "room": "266", "department": "common", "tenant": "Pantry", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [26.5, -48], [45, -48], [45, -33], [26.5, -33] ]] },
+          "properties": { "room": "267", "department": "common", "tenant": "Conference Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [11.5, -12], [18.5, -12], [18.5, -20.5], [11.5, -20.5] ]] },
+          "properties": { "room": "282", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [11.5, -21], [18.5, -21], [18.5, -29], [11.5, -29] ]] },
+          "properties": { "room": "274", "department": "faculty", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [19, -12], [25.5, -12], [25.5, -20.5], [19, -20.5] ]] },
+          "properties": { "room": "283", "department": "faculty", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [19, -21], [25.5, -21], [25.5, -29], [19, -29] ]] },
+          "properties": { "room": "273", "department": "common", "tenant": "Reading Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [26, -12], [32.5, -12], [32.5, -20.5], [26, -20.5] ]] },
+          "properties": { "room": "285", "department": "faculty", "tenant": "Outreach Annex", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [26, -21], [32.5, -21], [32.5, -29], [26, -29] ]] },
+          "properties": { "room": "272", "department": "common", "tenant": "Archive", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [33, -12], [43, -12], [43, -19.5], [33, -19.5] ]] },
+          "properties": { "room": "287", "department": "common", "tenant": "Copy Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [33, -20], [43, -20], [43, -29], [33, -29] ]] },
+          "properties": { "room": "272", "department": "common", "tenant": "Library", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [51, -11], [58.5, -11], [58.5, -20], [51, -20] ]] },
+          "properties": { "room": "291", "department": "common", "tenant": "Conference Room", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [87, -11], [94, -11], [94, -19.5], [87, -19.5] ]] },
+          "properties": { "room": "292F", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [87, -20], [94, -20], [94, -28.5], [87, -28.5] ]] },
+          "properties": { "room": "292G", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [79.5, -11], [86.5, -11], [86.5, -19.5], [79.5, -19.5] ]] },
+          "properties": { "room": "292E", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [79.5, -20], [86.5, -20], [86.5, -28.5], [79.5, -28.5] ]] },
+          "properties": { "room": "292D", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [69, -11], [76, -11], [76, -19.5], [69, -19.5] ]] },
+          "properties": { "room": "292B", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [69, -22], [79, -22], [79, -28.5], [69, -28.5] ]] },
+          "properties": { "room": "292C", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [108.5, -11.5], [118.5, -11.5], [118.5, -20], [108.5, -20] ]] },
+          "properties": { "room": "209B", "department": "common", "tenant": "Student Lounge", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [108.5, -20.5], [118.5, -20.5], [118.5, -28.5], [108.5, -28.5] ]] },
+          "properties": { "room": "209C", "department": "student", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [97.5, -21.5], [108, -21.5], [108, -28.5], [97.5, -28.5] ]] },
+          "properties": { "room": "209D", "department": "student", "tenant": "John Doe", "avatar": "core/avatar.jpg" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [97.5, -11.5], [108, -11.5], [108, -18.5], [97.5, -18.5] ]] },
+          "properties": { "room": "209A", "department": "student", "tenant": "", "avatar": "" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Polygon", "coordinates":
+            [[ [67.5, -60], [83.5, -60], [83.5, -69], [67.5, -69] ]] },
+          "properties": { "room": "235", "department": "student", "tenant": "John Doe", "avatar": "" }
+      }
+
+
+    ]
+}

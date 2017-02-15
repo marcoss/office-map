@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [9, -14] },
+          "properties": { "deviceName": "staffwriter", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [48, -65] },
+          "properties": { "deviceName": "poster", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [56, -65] },
+          "properties": { "deviceName": "hpcolor", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [82, -65] },
+          "properties": { "deviceName": "horse", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [87, -26] },
+          "properties": { "deviceName": "lexmark", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [37.5, -16] },
+          "properties": { "deviceName": "bizhub", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [43, -16] },
+          "properties": { "deviceName": "glue", "deviceType": "printer" }
+      },
+
+      {
+        "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [47, -10] },
+          "properties": { "deviceName": "hp", "deviceType": "printer" }
+      }
+  ]
+}
